@@ -1,6 +1,6 @@
-# Proyecto de Predicción de Cancelación de Clientes
+ #                                                    Proyecto: Predicción de Cancelación de Servicios
 
-![Análisis de datos](https://cdn-icons-png.flaticon.com/512/1170/1170576.png)
+![Análisis de datos](https://image.lexica.art/full_webp/7b3d9d65-32a9-4468-bded-d1c2926f77da)
 
 # 🧠 Descripción
 
@@ -72,17 +72,6 @@ Variables como Cargo_mensual, Antigüedad_meses y Tiene_dependientes son clave p
 🔄 Implementar pipelines para automatizar el flujo completo.
 
 ---
-
-# ✉️ Contacto
-¡No dudes en contactarme para cualquier pregunta o colaboración!
-
-📧 [Correo](mailto:angeltroncoso2019@outlook.es)  
-🔗 [LinkedIn](https://www.linkedin.com/in/angeltroncoso)  
-🐦 [Twitter](https://twitter.com/angeltronc26452)  
-💼 [GitHub](https://github.com/angeltroncoso)  
-
----
-
 # 📄 Licencia  
 
   Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
@@ -95,8 +84,20 @@ Variables como Cargo_mensual, Antigüedad_meses y Tiene_dependientes son clave p
 - Forkear el repositorio.
 - Crear una nueva rama (git checkout -b feature/AmazingFeature).
 - Realizar tus cambios y commitarlos (git commit -m 'Add some AmazingFeature').
+
 - Hacer push a la rama (git push origin feature/AmazingFeature).
 - Abrir un Pull Request.
 
   **¡Agradecemos de antemano tu colaboración!**
+  
+---
 
+# ✉️ Contacto
+¡No dudes en contactarme para cualquier pregunta o colaboración!
+
+📧 [Correo](mailto:angeltroncoso2019@outlook.es)  
+🔗 [LinkedIn](https://www.linkedin.com/in/angeltroncoso)  
+🐦 [Twitter](https://twitter.com/angeltronc26452)  
+💼 [GitHub](https://github.com/angeltroncoso)  
+
+---
