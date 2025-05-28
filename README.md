@@ -2,7 +2,7 @@
 
 ![Análisis de datos](https://cdn-icons-png.flaticon.com/512/1170/1170576.png)
 
-## Descripción
+# 🧠 Descripción
 
 Este proyecto utiliza Machine Learning para predecir la probabilidad de que un cliente cancele su servicio. Se emplean modelos de **Random Forest** y **XGBoost** para analizar múltiples variables demográficas y de comportamiento.
 
@@ -12,7 +12,7 @@ Este proyecto utiliza Machine Learning para predecir la probabilidad de que un c
 
 ---
 
-## Variables principales
+# 🛠️ Variables principales
 
 - `Cancelado` (variable objetivo)
 - `Tiene_dependientes`
@@ -26,7 +26,7 @@ Este proyecto utiliza Machine Learning para predecir la probabilidad de que un c
 
 ---
 
-## Estructura del proyecto
+# 📂 Estructura del proyecto
 
 - `data/` - Datos de entrada.
 - `notebooks/` - Análisis exploratorio, entrenamiento y evaluación.
@@ -36,14 +36,16 @@ Este proyecto utiliza Machine Learning para predecir la probabilidad de que un c
 
 ---
 
-## Requisitos
+# 🔑 Requisitos
 
 Python 3.8+ con librerías:
 
 ```bash
 pip install pandas scikit-learn xgboost matplotlib seaborn
 ```
-Uso
+---
+
+# 🚀 Uso del Proyecto
 Cargar y limpiar los datos.
 
 Entrenar los modelos Random Forest y XGBoost.
@@ -52,32 +54,49 @@ Evaluar resultados con métricas como accuracy, precision, recall, f1-score y RO
 
 Visualizar la importancia de variables con gráficos.
 
-Resultados
+---
+# 📊 Resultados Obtenidos
+
 Random Forest alcanzó un accuracy aproximado del 56% y un f1-score balanceado.
 
 XGBoost mostró métricas similares con un ROC AUC cercano a 0.52.
 
 Variables como Cargo_mensual, Antigüedad_meses y Tiene_dependientes son clave para la predicción.
+---
+# 📈 Mejoras Futuras
 
-Mejoras Futuras
-Optimización de hiperparámetros con técnicas avanzadas.
+⚙️Optimización de hiperparámetros con técnicas avanzadas.
 
-Experimentar con otros modelos (SVM, Redes Neuronales).
+🧪 Experimentar con otros modelos (SVM, Redes Neuronales).
 
-Implementar pipelines para automatizar el flujo completo.
+🔄 Implementar pipelines para automatizar el flujo completo.
 
-Contacto
-Ángel Troncoso
+---
 
-## Contacto
+# ✉️ Contacto
+¡No dudes en contactarme para cualquier pregunta o colaboración!
 
 📧 [Correo](mailto:angeltroncoso2019@outlook.es)  
 🔗 [LinkedIn](https://www.linkedin.com/in/angel-troncoso)  
 🐦 [Twitter](https://twitter.com/angeltroncoso)  
 💼 [GitHub](https://github.com/angeltroncoso)  
 
+---
 
+# 📄 Licencia  
 
+  Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
 
+---
 
+# 🤝 Contribuciones
+¡Tu contribución es muy bienvenida! Si te gustaría mejorar este proyecto, puedes:
+
+- Forkear el repositorio.
+- Crear una nueva rama (git checkout -b feature/AmazingFeature).
+- Realizar tus cambios y commitarlos (git commit -m 'Add some AmazingFeature').
+- Hacer push a la rama (git push origin feature/AmazingFeature).
+- Abrir un Pull Request.
+
+  **¡Agradecemos de antemano tu colaboración!**
 
