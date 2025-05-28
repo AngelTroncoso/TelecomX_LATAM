@@ -78,7 +78,7 @@ Variables como Cargo_mensual, Antigüedad_meses y Tiene_dependientes son clave p
 
 📧 [Correo](mailto:angeltroncoso2019@outlook.es)  
 🔗 [LinkedIn](https://www.linkedin.com/in/angel-troncoso)  
-🐦 [Twitter](https://twitter.com/angeltroncoso)  
+🐦 [Twitter](https://twitter.com/angeltronc26452)  
 💼 [GitHub](https://github.com/angeltroncoso)  
 
 ---
