@@ -48,28 +48,33 @@ pip install pandas scikit-learn xgboost matplotlib seaborn
 # 🚀 Uso del Proyecto
 Cargar y limpiar los datos.
 
-Entrenar los modelos Random Forest y XGBoost.
+Transformar Datos en Insights de valor .
 
-Evaluar resultados con métricas como accuracy, precision, recall, f1-score y ROC AUC.
+Evaluar resultados con métricas Estadisticas.
 
 Visualizar la importancia de variables con gráficos.
 
 ---
 # 📊 Resultados Obtenidos
 
-Random Forest alcanzó un accuracy aproximado del 56% y un f1-score balanceado.
+ Variables mas correlacionadas: 
 
-XGBoost mostró métricas similares con un ROC AUC cercano a 0.52.
-
-Variables como Cargo_mensual, Antigüedad_meses y Tiene_dependientes son clave para la predicción.
+  Tipo_contrato        -0.396713  
+  Antigüedad_meses     -0.352229  
+  Seguridad_en_línea   -0.289309   
+  Soporte_técnico      -0.282492  
+  Cargo_total          -0.199484  
+  
 ---
 # 📈 Mejoras Futuras
 
-⚙️Optimización de hiperparámetros con técnicas avanzadas.
-
-🧪 Experimentar con otros modelos (SVM, Redes Neuronales).
-
-🔄 Implementar pipelines para automatizar el flujo completo.
+ 🚀 Diseñar campañas de retención dirigidas a nuevos clientes (0–6 meses).
+ 
+ 📈 Ofrecer beneficios adicionales o descuentos para contratos de mayor duración.
+ 
+ 🗝️ Mejorar la experiencia de soporte técnico y la percepción de seguridad digital.
+ 
+ 🎯 Monitorear y segmentar a los clientes con cargos altos, ofreciendo planes ajustados a su uso.
 
 ---
 # 📄 Licencia  
