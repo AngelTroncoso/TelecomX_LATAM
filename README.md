@@ -30,21 +30,16 @@ El objetivo principal de este análisis es identificar patrones y variables que 
 
 # 📂 Estructura del proyecto
 
-- `data/` - Datos de entrada.
+- `data/` - Importacion de Datos de entrada.
 - `notebooks/` - Análisis exploratorio, entrenamiento y evaluación.
-- `models/` - Modelos entrenados.
-- `scripts/` - Código de procesamiento y modelado.
+- `scripts/` - Análisis de Variables y Vsualizaciones.
 - `README.md` - Este archivo.
-
 ---
 
 # 🔑 Requisitos
 
 Python 3.8+ con librerías:
 
-```bash
-pip install pandas scikit-learn xgboost matplotlib seaborn
-```
 ---
 
 # 🚀 Uso del Proyecto
