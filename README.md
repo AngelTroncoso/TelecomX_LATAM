@@ -74,11 +74,6 @@ Visualizar la importancia de variables con gráficos.
  🎯 Monitorear y segmentar a los clientes con cargos altos, ofreciendo planes ajustados a su uso.
 
 ---
-# 📄 Licencia  
-
-  Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
-
----
 
 # 🤝 Contribuciones
 ¡Tu contribución es muy bienvenida! Si te gustaría mejorar este proyecto, puedes:
@@ -101,5 +96,10 @@ Visualizar la importancia de variables con gráficos.
 🔗 [LinkedIn](https://www.linkedin.com/in/angeltroncoso)  
 🐦 [Twitter](https://twitter.com/angeltronc26452)  
 💼 [GitHub](https://github.com/angeltroncoso)  
+
+---
+# 📄 Licencia  
+
+  Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
 
 ---
