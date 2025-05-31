@@ -4,11 +4,13 @@
 
 # 🧠 Descripción
 
-Este proyecto utiliza Machine Learning para predecir la probabilidad de que un cliente cancele su servicio. Se emplean modelos de **Random Forest** y **XGBoost** para analizar múltiples variables demográficas y de comportamiento.
+En un entorno altamente competitivo, retener a los clientes se ha vuelto tan importante como atraer nuevos. El fenómeno conocido como evasión de clientes (churn) se refiere a la pérdida de usuarios o consumidores que deciden dejar de utilizar un servicio o producto. Esta situación representa un gran desafío para las empresas, ya que captar un nuevo cliente suele ser mucho más costoso que mantener uno existente.
+
+El objetivo principal de este análisis es identificar patrones y variables que están fuertemente relacionadas con la cancelación del servicio por parte de los clientes, permitiendo anticiparse a esta conducta.Se busca predecir de forma precisa qué clientes tienen mayor probabilidad de abandonar, y así tomar medidas proactivas que reduzcan esta tasa.
 
 - **ETL (Extract, Transform, Load):** Limpieza y preparación de datos desde múltiples fuentes.
 - **EDA (Exploratory Data Analysis):** Análisis exploratorio para entender patrones y relaciones en los datos.
-- **Machine Learning:** Modelos predictivos (Random Forest, XGBoost) para predecir la probabilidad de cancelación y ayudar a la toma de decisiones.
+- **Conclución y Recomendaciones:** para predecir la probabilidad de cancelación y ayudar a la toma de decisiones.
 
 ---
 
