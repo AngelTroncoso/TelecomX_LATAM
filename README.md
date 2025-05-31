@@ -32,46 +32,49 @@ El objetivo principal de este análisis es identificar patrones y variables que 
 
 - `data/` - Importacion de Datos de entrada.
 - `notebooks/` - Análisis exploratorio, entrenamiento y evaluación.
-- `scripts/` - Análisis de Variables y Vsualizaciones.
+- `scripts/` - Análisis de Variables y Visualizaciones.
 - `README.md` - Este archivo.
 ---
 
 # 🔑 Requisitos
 
-Python 3.8+ con librerías:
-
+Python 3.8+ con librerías:  
+ - Pandas  
+ - Matplotlib  
+ - Seaborn  
+ 
 ---
 
 # 🚀 Uso del Proyecto
-Cargar y limpiar los datos.
+- Cargar y limpiar los datos.
 
-Transformar Datos en Insights de valor .
+- Transformar Datos en Insights de valor .
 
-Evaluar resultados con métricas Estadisticas.
+- Evaluar resultados con métricas Estadisticas.
 
-Visualizar la importancia de variables con gráficos.
+- Visualizar la importancia de variables con gráficos.
 
 ---
 # 📊 Resultados Obtenidos
 
  Variables mas correlacionadas: 
 
-  Tipo_contrato        -0.396713  
-  Antigüedad_meses     -0.352229  
-  Seguridad_en_línea   -0.289309   
-  Soporte_técnico      -0.282492  
-  Cargo_total          -0.199484  
+  - Tipo_contrato        -0.396713  
+  - Antigüedad_meses     -0.352229  
+  - Seguridad_en_línea   -0.289309   
+  - Soporte_técnico      -0.282492  
+  - Cargo_total          -0.199484  
   
 ---
 # 📈 Mejoras Futuras
 
- 🚀 Diseñar campañas de retención dirigidas a nuevos clientes (0–6 meses).
+ 1- Diseñar campañas de retención dirigidas a nuevos clientes (0–6 meses).
  
- 📈 Ofrecer beneficios adicionales o descuentos para contratos de mayor duración.
+ 2- Ofrecer beneficios adicionales o descuentos para contratos de mayor duración.
  
- 🗝️ Mejorar la experiencia de soporte técnico y la percepción de seguridad digital.
+ 3- Mejorar la experiencia de soporte técnico y la percepción de seguridad digital.
  
- 🎯 Monitorear y segmentar a los clientes con cargos altos, ofreciendo planes ajustados a su uso.
+ 4- Monitorear y segmentar a los clientes con cargos altos, ofreciendo planes ajustados a su uso.
 
 ---
 
